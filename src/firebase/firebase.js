@@ -14,6 +14,6 @@ const config = {
 firebase.initializeApp(config);
 const database = firebase.database();
 
-database.ref().set('my beautiful balzz');
+admin.initializeApp();
 
 export { firebase, database as default };
