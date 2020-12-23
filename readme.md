@@ -9,6 +9,7 @@ This project is an expense manager where you can add an expense and get a overvi
 I made this for React study purposes, so no fancy styles here.
 
 **UPDATE**
+
 I recently had to overlap this project firebase server for a new project, so the live website link is broken for the moment. If you want to run this project, please:
 
 1. Clone this project.
@@ -29,6 +30,7 @@ Este projeto é um organizador de finanças. Nele você pode adicionar uma nova 
 Este projet foi criado para estudos de React, então eu não cuidei muito dos styles.
 
 **IMPORTANTE**
+
 Eu recentemente precisei usar o servidor deste projeto para um outro projeto, então a hospedagem dele assim como o link para acesso quebraram. Se vocé quiser abrir este projeto, por favor:
 
 1. Clone este projeto.
